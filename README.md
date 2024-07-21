@@ -13,3 +13,7 @@ VidTube is a simple YouTube clone created using HTML, CSS, and JavaScript. It mi
 - HTML
 - CSS
 - JavaScript
+  
+## SCREENSHOTS
+![Screenshot (9)](https://github.com/user-attachments/assets/ee33dfb8-9e6f-4c0c-b308-0c67e5fae7d4)
+![Screenshot (10)](https://github.com/user-attachments/assets/4317d6af-331d-41ec-a470-1441affd37d8)
